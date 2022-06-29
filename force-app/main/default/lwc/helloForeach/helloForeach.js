@@ -10,7 +10,7 @@ export default class HelloForeach extends LightningElement {
         },
         {
             id:2,
-            Name:'Dnyaneshwar',
+            Name:'Shubham',
             Title:'Dj Brooo'
         },
         {
