@@ -28,7 +28,7 @@ export default class PublicMethodChild extends LightningElement {
         }
          return "no checkbox found";
         
- 
+
     }
    
    

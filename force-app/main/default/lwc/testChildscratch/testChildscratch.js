@@ -4,6 +4,6 @@ export default class TestChildscratch extends LightningElement {
     Abc="Hello World";
 
     activebutton(){
-        this.Abc="welcome to India";
+        this.Abc="Hello India";
     }
 }
