@@ -1,5 +1,6 @@
 import { LightningElement,track,wire } from 'lwc';
 import getcontactlist from '@salesforce/apex/wiredecoraticedemocomponentclass.getcontactlist' ;
+//go to class folder check class "wiredecoraticedemocomponentclass" we are import in 2nd line
 
 const columns1=[
     {label:'Contact Record Id' , fieldName : "Id" },
